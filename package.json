@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "pm2": "^5.1.2"
+  },
+  "name": "expressweb-go",
+  "description": "Express test and study",
+  "version": "1.0.0",
+  "main": "App.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoWoong/ExpressWeb-Go.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoWoong/ExpressWeb-Go/issues"
+  },
+  "homepage": "https://github.com/GoWoong/ExpressWeb-Go#readme"
+}
