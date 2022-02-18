@@ -17,10 +17,5 @@ app.post('/',(req,res) => {
 });
 
 app.listen(3000,()=>{
-  try{
-    console.log("서버실행이 성공했습니다.");
-  }
-  catch{
-    console.log(error);
-  }
+  console.log("서버실행이 성공했습니다.");
 });
